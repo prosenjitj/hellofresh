@@ -52,7 +52,7 @@ You can use this file by adding new section or create a new one.
 File should have 2 columns: `difficulty,avg_total_cooking_time` and named as `report.csv`
 
 ## Requirements
-- Well structured, documented, maintainable code
+- Well structured, object-oriented, documented and maintainable code
 - Unit tests to test the different components
 - Errors handling
 - Documentation
